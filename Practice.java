@@ -1,4 +1,4 @@
-class Main {
+class Practice {
     public static void main(String[] args) {
         String name = "Sakrit";
         int studentID = 410443;
